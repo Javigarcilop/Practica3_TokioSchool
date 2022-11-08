@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica Tokio 3</string>
+    <string name="title_main">Login</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_password">Password</string>
+    <string name="main_button_login">Login</string>
+    <string name="txt_forgot">Forgot Password</string>
+    <string name="txt_account">Do you have an account?</string>
+    <string name="txt_button_getNew">Get new</string>
+    <string name="button_create">Create new</string>
+</resources>
