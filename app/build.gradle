@@ -27,10 +27,10 @@ android {
     }
 }
 
-buildfeatures{
+    buildfeatures {
 
-    binding = true
-}
+        viewbinding = true
+    }
 
 dependencies {
 

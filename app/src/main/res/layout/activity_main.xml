@@ -87,7 +87,7 @@
         android:text="@string/main_button_login"
         android:textSize="20sp"
         android:textColor="@color/white"
-        android:textAppearance="@color/black"/>
+        android:backgroundTint="@color/black"/>
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/text_forgot"
